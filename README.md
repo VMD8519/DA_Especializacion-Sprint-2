@@ -6,5 +6,5 @@ El objetivo principal fue:
 - Realizar consultas básicas en SQL
 - Trabajar con relaciones
 - Ejecutar análisis de transacciones
-- 
+  
 Como resultado, este sprint ha servido como un repaso para comenzar de manera segura y eficaz el trabajo práctico en una base de datos relacional en el ámbito de ventas online. Además, me ha permitido entender con mayor profundidad la organización de los datos y realizar consultas SQL básicas de manera sólida.
